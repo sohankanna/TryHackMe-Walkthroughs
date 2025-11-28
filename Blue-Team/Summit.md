@@ -2,7 +2,6 @@
 
 **Category:** Blue Team / SOC Analysis
 **Topic:** Pyramid of Pain, Threat Simulation, Malware Analysis, Sigma Rules
-**Platform:** TryHackMe
 
 ## Introduction
 
